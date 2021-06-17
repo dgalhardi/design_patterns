@@ -1,1 +1,1 @@
-# Some of most used design patterns. SOLID principles.
+# Some of most used design patterns and SOLID principles.
